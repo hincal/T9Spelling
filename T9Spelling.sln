@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling", "T9Spelling\T9Spelling.csproj", "{E17F2697-228F-471C-889E-8CCDD844278F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling.Tests", "T9Spelling.Tests\T9Spelling.Tests.csproj", "{6252B664-EB30-4324-8AA8-14C9CF801F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17F2697-228F-471C-889E-8CCDD844278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17F2697-228F-471C-889E-8CCDD844278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17F2697-228F-471C-889E-8CCDD844278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17F2697-228F-471C-889E-8CCDD844278F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6252B664-EB30-4324-8AA8-14C9CF801F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6252B664-EB30-4324-8AA8-14C9CF801F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6252B664-EB30-4324-8AA8-14C9CF801F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6252B664-EB30-4324-8AA8-14C9CF801F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB282EE7-0219-464E-B25E-28D49E297C45}
+	EndGlobalSection
+EndGlobal
